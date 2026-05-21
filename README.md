@@ -2,6 +2,15 @@
 
 This repository contains Python projects completed as part of the Oasis Infobyte Python Programming Internship.
 
+## Technologies Used
+- Python
+- requests
+- pyttsx3
+- datetime
+- webbrowser
+- random
+- string
+
 ## Projects Included
 
 ### Task 1 - Voice Assistant
@@ -24,15 +33,6 @@ This repository contains Python projects completed as part of the Oasis Infobyte
 ### Task 5 - Chat Application
 - Text-based chat system
 - Supports usernames, timestamps, and chat history saving
-
-## Technologies Used
-- Python
-- requests
-- pyttsx3
-- datetime
-- webbrowser
-- random
-- string
 
 ## Repository Structure
 
