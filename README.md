@@ -1,43 +1,49 @@
-# Python Internship Projects
+# OIBSIP - Python Internship Projects
 
-This repository contains beginner-level Python projects completed during my Python Programming Internship.
+This repository contains Python projects completed as part of the Oasis Infobyte Python Programming Internship.
 
 ## Projects Included
 
-### 01. Voice Assistant
-- Voice-based/text-based assistant
+### Task 1 - Voice Assistant
+- Voice/text-based assistant
 - Can tell time and date
 - Opens websites like Google, YouTube, and Spotify
 
-### 02. BMI Calculator
+### Task 2 - BMI Calculator
 - Calculates Body Mass Index (BMI)
 - Classifies user as underweight, normal, overweight, or obese
 
-### 03. Password Generator
+### Task 3 - Password Generator
 - Generates random passwords
 - User can choose password length
 
-### 04. Weather App
+### Task 4 - Weather App
 - Displays weather information for a city
 - Shows temperature, humidity, and weather condition
 
-### 05. Chat Application
+### Task 5 - Chat Application
 - Text-based chat system
 - Supports usernames, timestamps, and chat history saving
 
 ## Technologies Used
 - Python
-- requests library
-- datetime module
+- requests
 - pyttsx3
+- datetime
+- webbrowser
+- random
+- string
 
 ## Repository Structure
 
-01_Voice_Assistant  
-02_BMI_Calculator  
-03_Password_Generator  
-04_Weather_App  
-05_Chat_Application  
+- Task 1 - Voice Assistant  
+- Task 2 - BMI Calculator  
+- Task 3 - Password Generator  
+- Task 4 - Weather App  
+- Task 5 - Chat Application  
+
+## Internship
+Python Programming Internship - Oasis Infobyte
 
 ## Author
 Shruti
